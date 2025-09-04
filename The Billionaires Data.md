@@ -20,20 +20,10 @@ Financial_Model.xlsx → Budgeting & forecasting template
 
 📥 
 
-## 📷 Screenshots  
+[📷 Download Dashboard.png](./Dashboard.png)  
+[📷 Download Analysis_or_Pivots.png](./Analysis_or_Pivots.png)  
+[📷 Download Cleaned_Data.png](./Cleaned_Data.png)  
 
-### Dashboard  
-[![Download](https://img.shields.io/badge/Download-Dashboard.png-lightgrey)](./Dashboard.png)  
-
----
-
-### Analysis  
-[![Download](https://img.shields.io/badge/Download-Analysis.png-lightgrey)](./Analysis.png)  
-
----
-
-### Cleaned Data  
-[![Download](https://img.shields.io/badge/Download-Cleaned_Data.png-lightgrey)](./Cleaned_Data.png)  
 
 
 🎯 Use Cases
