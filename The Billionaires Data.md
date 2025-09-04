@@ -23,3 +23,7 @@ Data analysis practice
 Download the Excel file(s) from this repository.
 Open in Microsoft Excel.
 Explore the dashboards and features.
+
+📥
+
+[![Download it](https://img.shields.io/badge/📥_Billionaires.xlsx-blue?style=for-the-badge)](./Billionaires.xlsx)
