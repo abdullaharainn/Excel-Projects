@@ -20,9 +20,10 @@ Financial_Model.xlsx → Budgeting & forecasting template
 
 📥 
 
-[📥 Download Dashboard.png](https://github.com/abdullaharainn/Excel-Projects/raw/main/Dashboard.png)  
-[📥 Download Analysis.png](https://github.com/abdullaharainn/Excel-Projects/raw/main/Analysis.png)  
-[📥 Download Cleaned_Data.png](https://github.com/abdullaharainn/Excel-Projects/raw/main/Cleaned_Data.png)  
+[📥 Download Dashboard.png](https://github.com/abdullaharainn/Excel-Projects/releases/download/v1.0/Dashboard.png)
+[📥 Download Cleaned_Data.png](https://github.com/abdullaharainn/Excel-Projects/releases/download/v1.0/Cleaned_Data.png)
+[📥 Download Analysis_or_Pivots.png](https://github.com/abdullaharainn/Excel-Projects/releases/download/v1.0/Analysis_or_Pivots.png)
+ 
 
 🎯 Use Cases
 
