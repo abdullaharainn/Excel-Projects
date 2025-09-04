@@ -18,9 +18,12 @@ Dashboard.xlsx → Main interactive dashboard
 Data_Cleaning.xlsm → Example of Power Query & VBA cleaning
 Financial_Model.xlsx → Budgeting & forecasting template
 
-📥 [Cleaned Data](./Clean_Data.xlsx)
-📥 [Analysis or Pivot Tables](./[Analysis_or_Pivot_Tables)
-📥 [Dashboard](./Dashboard.xlsx)
+📥 
+
+[![Download](https://img.shields.io/badge/⬇️_Download-Cleaned_Data.xlsx-blue)](./Clean_Data.xlsx)  
+[![Download](https://img.shields.io/badge/⬇️_Download-Analysis_or_Pivot_Tables.xlsx-green)](./Analysis_or_Pivot_Tables.xlsx)  
+[![Download](https://img.shields.io/badge/⬇️_Download-Dashboard.xlsx-orange)](./Dashboard.xlsx)  
+
 
 🎯 Use Cases
 
