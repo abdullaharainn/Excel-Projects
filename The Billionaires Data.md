@@ -18,9 +18,7 @@ Dashboard.xlsx → Main interactive dashboard
 Data_Cleaning.xlsm → Example of Power Query & VBA cleaning
 Financial_Model.xlsx → Budgeting & forecasting template
 
-📷 Screenshots
-
-(Add screenshots of your dashboard or reports here)
+📥 [Download Excel Dashboard](./Billionaires.xlsx)
 
 🎯 Use Cases
 
