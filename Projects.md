@@ -1,4 +1,4 @@
-📊 Excel Project – [The Billionaires]
+📊 Excel Projects :
 
 📌 Overview
 
