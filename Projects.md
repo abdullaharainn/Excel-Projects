@@ -27,4 +27,4 @@ Explore the dashboards and features.
 📥
 
 [![Download it](https://img.shields.io/badge/📥_Billionaires.xlsx-blue?style=for-the-badge)](./Billionaires.xlsx)
-[![Download it](https://img.shields.io/badge/📥_Bike_Buyers-blue?style=for-the-badge)](./Bike_Buyers.xlsx)
+[![Download it](https://img.shields.io/badge/📥_Bikes_Buyers-blue?style=for-the-badge)](./Bikes_Buyers.xlsx)
