@@ -1,10 +1,10 @@
 📊 Excel Projects :
 
-📌 Overview
+📌 Overview :
 
 These projects demonstrate the use of Microsoft Excel for data analysis, reporting, and visualization. It includes interactive dashboards, advanced formulas, simplified workflows, and provides actionable insights.
 
-🚀 Features
+🚀 Features :
 
 Dynamic dashboards with charts and slicers.
 PivotTables for better insights.
@@ -12,13 +12,13 @@ Sorting/Merging.
 Data cleaning. ( with formulas )
 Formatting.
 
-🎯 Use Cases
+🎯 Use Cases :
 
 Business reporting and decision-making
 Academic projects and case studies
 Data analysis practice
 
-📖 How to Use
+📖 How to Use :
 
 📥 Download the Excel file(s) from this repository.
 Open in Microsoft Excel.
