@@ -25,8 +25,10 @@ Open in Microsoft Excel.
 Explore the dashboards and features.
 
 
-[![Download it](https://img.shields.io/badge/📥_Billionaires.xlsx-blue?style=for-the-badge)](./Billionaires.xlsx)
+[![Download it](https://img.shields.io/badge/📥_Billionaires.xlsx-yellow?style=for-the-badge)](./Billionaires.xlsx)
 
 [![Download it](https://img.shields.io/badge/📥_Bmw_Sales-blue?style=for-the-badge)](./Bmw_Sales.xlsx)
 
-[![Download it](https://img.shields.io/badge/📥_Cafe_Sales-blue?style=for-the-badge)](./Cafe_Sales.xlsx)
+[![Download it](https://img.shields.io/badge/📥_Cafe_Sales-green?style=for-the-badge)](./Cafe_Sales.xlsx)
+
+[![Download it](https://img.shields.io/badge/📥_Salary_Data_with_Macro-green?style=for-the-badge)](./Cafe_Sales.xlsx)
